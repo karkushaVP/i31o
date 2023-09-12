@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  i31o
+//  Diploma
 //
 //  Created by Polya on 12.09.23.
 //
@@ -8,17 +8,12 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
-    @IBOutlet weak var label: UILabel!
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Hello git!")
-        view.backgroundColor = .red
-        label.text = "sdfzsxdcfvgbhnghj"
+        // Do any additional setup after loading the view.
     }
-    
-    
-    
+
+
 }
 

@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  i31o
+//  Diploma
 //
 //  Created by Polya on 12.09.23.
 //
